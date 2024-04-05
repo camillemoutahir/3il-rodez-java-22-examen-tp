@@ -19,15 +19,16 @@ Ce document récapitule les réalisations effectuées dans le cadre du TP de ges
 - [ ] Test unitaire associé.
 
 (Explication et justification de ce qui a été fait...)
-
+création de la classe avec les attributs, getters setters et controleur.
+Essai d'une méthode compare 2 tâches
 ### Suppression d'une tâche
 
 - [ ] Mécanisme de sélection et de suppression de la tâche.
-- [ ] Bouton "Supprimer".
+- [x] Bouton "Supprimer".
 - [ ] Test unitaire associé.
 
 (Explication et justification de ce qui a été fait...)
-
+pb pour trouver la tâche
 ### Visualisation des tâches
 
 - [ ] Affichage des détails des tâches existantes.
